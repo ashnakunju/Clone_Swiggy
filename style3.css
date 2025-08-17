@@ -1,0 +1,26 @@
+.logo_img{
+   background-color: white;
+   width: 60px;
+   border: solid #f6721a;
+   border-radius: 15px;
+   /* margin-left: 10%; */
+}
+.swiggy{
+    font-style: normal;
+    font-size: 30px;
+    font-weight: 800;
+    color: #f6721a;
+}
+.navbar-nav{
+    margin-left: 15%;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    color: #ff6600; 
+}
+
+.navbar-nav .nav-item a{
+    color: #ff6600;
+}

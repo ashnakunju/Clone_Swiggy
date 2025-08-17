@@ -1,0 +1,102 @@
+
+.logo_img{
+   background-color: white;
+   width: 60px;
+   border: solid #f6721a;
+   border-radius: 15px;
+   /* margin-left: 10%; */
+}
+.swiggy{
+    font-style: normal;
+    font-size: 30px;
+    font-weight: 800;
+    color: #f6721a;
+}
+.navbar-nav{
+    margin-left: 15%;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    color: #ff6600; 
+}
+
+.navbar-nav .nav-item a{
+    color: #ff6600;
+}
+.heading{
+    text-align: center;
+    font-weight: 800;
+}
+.subhead{
+    padding-left: 150px;
+}
+.imge{
+    margin-left: 25%;
+    margin-top: 5%;
+    border-radius: 10%;
+}
+.drop{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.para{
+    padding-left: 10%;
+    padding-right: 30%;
+    padding-top: 20%;
+}.para2{
+    padding-left: 10%;
+    padding-right: 20%;
+    padding-top: 10%;
+    font-weight: 600;
+}
+.boy{
+    padding-right: 20%;
+}
+.para4{
+     padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+    font-weight: 600;
+}
+.img0{
+    padding-right: 20%;
+    padding-top: 10%;
+}
+.know{
+    border: none;
+    background-color: #f6721a;
+    border-radius: 5px;
+    padding: 10px 10px;
+    margin-left: 10%;
+}
+.blog{
+    border-radius: 20%;
+    margin-left: 5%;
+    
+}
+.section{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.map{
+    padding-right: 10%;
+}
+
+
+.sym{
+    margin-left: 120px;
+    padding-top: 100px;
+}
+.Company{
+    display: flex;
+    flex-direction: column;
+}
+.Company a{
+     text-decoration: none;
+     color: black;
+}
+.foot{
+    background-color: rgba(201, 199, 199, 0.901);
+}
